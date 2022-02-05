@@ -1,3 +1,6 @@
+# Mac file system:
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +130,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Some junk files on local:
+OLD
+
+# Jupyter book structure - not implemented yet:
+python_hacks

@@ -130,3 +130,6 @@ dmypy.json
 
 # Some junk files on local:
 OLD
+
+# Jupyter book structure - not implemented yet:
+python_hacks
